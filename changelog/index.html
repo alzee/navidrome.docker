@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="keyword" content="">
+<style>
+code{
+  background-color: #dadada;
+  padding: 2px 5px;
+  border-radius: .25rem;
+  font-size: .9rem;
+}
+</style>
+<title>更新日志</title>
+<!--
+<link rel="shortcut icon" href="data:image/x-icon;" type="image/x-icon" />
+<link rel="icon" href="data:;base64,=">
+-->
+<link rel="icon" href="data:;base64,iVBORw0KGgo=">
+</head>
+<body>
+	<section id="markdown">
+	</section>
+
+  <script src="marked.umd.js"></script>
+  <script>
+    ;(function(){
+      let xhr = new XMLHttpRequest();
+      let url = 'changelog.md';
+      xhr.onreadystatechange = function () {
+        if(xhr.readyState === XMLHttpRequest.DONE){
+          if(xhr.status === 200 || xhr.status === 0){
+            document.getElementById('markdown').innerHTML = marked.parse(xhr.responseText);
+          }
+        }
+      };
+      xhr.open('GET', url);
+      xhr.send();
+    })();
+  </script>
+</body>
+</html>
+
+<!--
+	vim:ft=html ts=2 sw=2
+-->
