@@ -11,6 +11,9 @@ services:
       ND_LOGLEVEL: info  
       ND_SESSIONTIMEOUT: 24h
       ND_BASEURL: ""
+      ND_DEFAULTLANGUAGE: zh-Hans
+      ND_ENABLEDOWNLOADS: false
+      ND_DEFAULTTHEME: Light
     volumes:
       - ${DATA_PATH}:/data
       - ${MUSIC_DIR}:/music:ro
