@@ -1,5 +1,4 @@
-### https://music.itove.com 
-### 更新日志
+### 更新日志 | https://music.itove.com 
 
 #### 2024-06-23
 * 现在客户端默认语言为`简体中文`
