@@ -2,15 +2,12 @@
 
 #### 2025-03-02
 #### 曲库
-* 添加**Abba**精选集。
-* 添加**艾薇儿·拉维尼**(Avril Lavigne)全集。
-* 添加**Lady Antebellum**单曲精选。
-* 添加**拉娜·德雷**(Lady Antebellum)2012至2021年全集。
+* 新增**Abba**精选集。
+* 新增**艾薇儿·拉维尼**(Avril Lavigne)全集。
+* 新增**Lady Antebellum**单曲精选。
+* 新增**拉娜·德雷**(Lana Del Rey)2012至2021年全集。
 
 #### 当前曲库：
-* 古琴 管平湖/刘赤城/李祥霆/陈熙珵 选集
-* 古琴-林西莉《古琴》随书附赠CD
-* 琵琶 刘德海/其他 选集
 * 佩里·科莫/马里奥·兰扎 金曲100首 '100 Hits Legends - Perry Como - Mario Lanza 10CD 320k (musicfromrizzo)'
 * Abba乐队 精选集 'Abba - Greatest Songs (2018)'
 * AC/DC乐队 精选集 AC-DC - The Best Songs (2016) [MP3~320Kbps]~[Hunter] [FRG]'
@@ -42,6 +39,9 @@
 * 玛丽亚·卡拉斯 精选 'The Very Best of Maria Callas'
 * 周杰伦 全集
 * 部分中文单曲
+* 古琴 管平湖/刘赤城/李祥霆/陈熙珵 选集
+* 古琴-林西莉《古琴》随书附赠CD
+* 琵琶 刘德海/其他 选集
 * 有声书《荆棘鸟》- 考琳·麦卡洛 'McCullough, Colleen - The Thorn Birds'
 * 有声书《福尔摩斯全集》 'Arthur Conan Doyle - Sherlock Holmes The Definitive Audio Collection'
 * 有声书《BBC经典故事合集90个》 'BBC Classics Ultimate Story Collection 90 Unmissable Tales'
