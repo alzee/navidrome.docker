@@ -21,7 +21,6 @@
 * 海顿 交响曲全集 'Haydn - All Symphonies'
 * 海顿 交响曲全集 'Haydn - Complete symphonies - A-HHO, Fischer [2006]  FLAC'
 * 琼·萨瑟兰 世纪之音 'Joan Sutherland - The voice of the Century'
-* 昆曲 张静娴/张继青/龚隐雷 精选
 * Lady Antebellum单曲精选 Lady Antebellum - Singles Collection'
 * 拉娜·德雷2012至2021年全集 'Lana Del Rey - Discography (2012-2021) [FLAC] vtwin88cube'
 * 林肯公园 精选集 'Linkin Park - Greatest Hits [MP3~320Kbps]~[Hunter] [FRG]'
@@ -42,6 +41,7 @@
 * 古琴 管平湖/刘赤城/李祥霆/陈熙珵 选集
 * 古琴-林西莉《古琴》随书附赠CD
 * 琵琶 刘德海/其他 选集
+* 昆曲 张静娴/张继青/龚隐雷 精选
 * 有声书《荆棘鸟》- 考琳·麦卡洛 'McCullough, Colleen - The Thorn Birds'
 * 有声书《福尔摩斯全集》 'Arthur Conan Doyle - Sherlock Holmes The Definitive Audio Collection'
 * 有声书《BBC经典故事合集90个》 'BBC Classics Ultimate Story Collection 90 Unmissable Tales'
