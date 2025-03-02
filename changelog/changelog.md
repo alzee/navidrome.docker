@@ -1,5 +1,12 @@
 ### 更新日志 | https://music.itove.com 
 
+#### 2025-03-02
+### 曲库
+* 添加**Abba**精选。
+* 添加**艾薇儿·拉维尼(Avril Lavigne)**全集。
+* 添加**Lady Antebellum**单曲精选。
+* 添加**拉娜·德雷(Lady Antebellum)**2012至2021年全集。
+
 #### 2024-07-04
 #### 曲库
 * 添加**沃尔夫冈·阿马德乌斯·莫扎特**（Wolfgang Amadeus Mozart）全集。音质`MP3 192kbps`。
