@@ -1,4 +1,15 @@
 ### 更新日志 | https://music.itove.com 
+#### 2025-08-31
+* 新增 **Aerosmith** 精选集。`Aerosmith - Greatest Hits (Deluxe) (2023) Mp3 320kbps`
+* 新增 **Aimer** 全集。 `Aimer - Discography [FLAC]`
+* 新增 **The Cranberries** (小红莓乐队)精选集。`The Cranberries - Stars - The Best Of 1992-2002`
+* 新增 **Eagles** (老鹰乐队)精选集。`Eagles - To the Limit_ The Essential Collection (2024) Mp3 320kbps`
+* 新增 **Mariah Carey** (玛丽亚·凯莉)精选集。`Mariah Carey - The Essential Mariah Carey (2011) [FLAC]`
+* 新增单曲 **Sia - Unstoppable**。
+* 新增 **Marilyn Manson** (玛丽莲·曼森)精选集。`Marilyn Manson-Greatest Hits`
+* 新增 **Whitney Houston** (惠特妮·休斯顿)精选集。`Whitney Houston - The Ultimate Collection (2007) [FLAC]`
+* 新增 **Eminem** (埃米纳姆)精选集。`Eminem - Best Of The Best (2018) Mp3 Album 320 kbps`
+* 新增 **Beyonce** (碧昂丝)精选集。`Beyonce – Essentials (2018) 320 KBPS`
 
 #### 2025-03-03
 #### 曲库
