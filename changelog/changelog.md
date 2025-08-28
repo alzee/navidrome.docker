@@ -1,5 +1,6 @@
 ### 更新日志 | https://music.itove.com 
 #### 2025-08-31
+#### 曲库:
 * 新增 **Aerosmith** 精选集。`Aerosmith - Greatest Hits (Deluxe) (2023) Mp3 320kbps`
 * 新增 **Aimer** 全集。 `Aimer - Discography [FLAC]`
 * 新增 **The Cranberries** (小红莓乐队)精选集。`The Cranberries - Stars - The Best Of 1992-2002`
