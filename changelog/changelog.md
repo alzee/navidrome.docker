@@ -4,8 +4,8 @@
 * 新增单曲 **Sia - Unstoppable**。
 * 新增单曲 **Chantal Kreviazuk - Leaving on a jet plane**。
 * 新增单曲 **Welshly Arms - Legendary**。
+* 新增 **Aimer** 2011-2024 全集。
 * 新增 **Aerosmith** 精选集。`Aerosmith - Greatest Hits (Deluxe) (2023) Mp3 320kbps`
-* 新增 **Aimer** 全集。 `Aimer - Discography [FLAC]`
 * 新增 **The Cranberries** (小红莓乐队)精选集。`The Cranberries - Stars - The Best Of 1992-2002`
 * 新增 **Eagles** (老鹰乐队)精选集。`Eagles - To the Limit_ The Essential Collection (2024) Mp3 320kbps`
 * 新增 **Mariah Carey** (玛丽亚·凯莉)精选集。`Mariah Carey - The Essential Mariah Carey (2011) [FLAC]`
@@ -13,6 +13,7 @@
 * 新增 **Whitney Houston** (惠特妮·休斯顿)精选集。`Whitney Houston - The Ultimate Collection (2007) [FLAC]`
 * 新增 **Eminem** (埃米纳姆)精选集。`Eminem - Best Of The Best (2018) Mp3 Album 320 kbps`
 * 新增 **Beyonce** (碧昂丝)精选集。`Beyonce – Essentials (2018) 320 KBPS`
+* 重新整理**周杰伦**全集，替换原有资源，并补充部分单曲未收录发行。现在应该是名副其实的“全集”。
 
 #### 2025-03-03
 #### 曲库
