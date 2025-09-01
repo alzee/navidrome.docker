@@ -1,4 +1,19 @@
 ### 更新日志 | https://music.itove.com 
+#### 2025-08-31
+#### 曲库:
+* 新增单曲 **Sia - Unstoppable**。
+* 新增单曲 **Chantal Kreviazuk - Leaving on a jet plane**。
+* 新增单曲 **Welshly Arms - Legendary**。
+* 新增 **Aimer** 2011-2024 全集。
+* 新增 **Aerosmith** 精选集。`Aerosmith - Greatest Hits (Deluxe) (2023) Mp3 320kbps`
+* 新增 **The Cranberries** (小红莓乐队)精选集。`The Cranberries - Stars - The Best Of 1992-2002`
+* 新增 **Eagles** (老鹰乐队)精选集。`Eagles - To the Limit_ The Essential Collection (2024) Mp3 320kbps`
+* 新增 **Mariah Carey** (玛丽亚·凯莉)精选集。`Mariah Carey - The Essential Mariah Carey (2011) [FLAC]`
+* 新增 **Marilyn Manson** (玛丽莲·曼森)精选集。`Marilyn Manson-Greatest Hits`
+* 新增 **Whitney Houston** (惠特妮·休斯顿)精选集。`Whitney Houston - The Ultimate Collection (2007) [FLAC]`
+* 新增 **Eminem** (埃米纳姆)精选集。`Eminem - Best Of The Best (2018) Mp3 Album 320 kbps`
+* 新增 **Beyonce** (碧昂丝)精选集。`Beyonce – Essentials (2018) 320 KBPS`
+* 重新整理**周杰伦**全集，替换原有资源，并补充部分单曲未收录发行。现在应该是名副其实的“全集”。
 
 #### 2025-03-03
 #### 曲库
@@ -8,6 +23,16 @@
 * 新增**拉娜·德雷**(Lana Del Rey)2012至2021年全集。
 
 #### 当前曲库：
+* **Aimer** 2011-2024 全集。
+* **Aerosmith** 精选集。`Aerosmith - Greatest Hits (Deluxe) (2023) Mp3 320kbps`
+* **The Cranberries** (小红莓乐队)精选集。`The Cranberries - Stars - The Best Of 1992-2002`
+* **Eagles** (老鹰乐队)精选集。`Eagles - To the Limit_ The Essential Collection (2024) Mp3 320kbps`
+* **Mariah Carey** (玛丽亚·凯莉)精选集。`Mariah Carey - The Essential Mariah Carey (2011) [FLAC]`
+* **Marilyn Manson** (玛丽莲·曼森)精选集。`Marilyn Manson-Greatest Hits`
+* **Whitney Houston** (惠特妮·休斯顿)精选集。`Whitney Houston - The Ultimate Collection (2007) [FLAC]`
+* **Eminem** (埃米纳姆)精选集。`Eminem - Best Of The Best (2018) Mp3 Album 320 kbps`
+* **Beyonce** (碧昂丝)精选集。`Beyonce – Essentials (2018) 320 KBPS`
+* 部分英文单曲
 * 佩里·科莫/马里奥·兰扎 金曲100首 '100 Hits Legends - Perry Como - Mario Lanza 10CD 320k (musicfromrizzo)'
 * Abba乐队 精选集 'Abba - Greatest Songs (2018)'
 * AC/DC乐队 精选集 AC-DC - The Best Songs (2016) [MP3~320Kbps]~[Hunter] [FRG]'
